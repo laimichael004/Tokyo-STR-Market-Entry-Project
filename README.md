@@ -1,2 +1,3 @@
 # Tokyo STR Market Entry Project: Data Analysis Using Inside Airbnb Dataset
-To achieve stable and profitable short-term rental development, our team analyzed key metrics—including listing volumes, occupancy rates, and revenue rankings—through multi-dimensional segmentation.
+- Recommended locations such as Tama with 30%+ monthly rentals for niche market entry.
+- Developed an interactive dashboard to support dynamic querying of metrics by location, empowering data-driven decision-making for hosts and investors.
