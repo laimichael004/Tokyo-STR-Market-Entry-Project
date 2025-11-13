@@ -1,4 +1,4 @@
-# Tokyo STR Market Entry Project: Data Analysis Using Inside Airbnb Dataset
+# Tokyo STR Market Entry Project
 ## Overview
 This project presents a comprehensive data-driven analysis of Tokyo's short-term rental (STR) market, focusing on both mainstream and niche segments. The analysis leverages the Inside Airbnb dataset to inform strategic market entry decisions for possible expansion into Tokyo. The goal is to identify high-potential opportunities, assess competitive landscapes, and recommend targeted approaches for capturing market share in Japan's dynamic tourism and accommodation sector.
 
