@@ -26,6 +26,7 @@ This README accompanies the project's core deliverable: a slide deck report crea
 - **Dominance of Urban Hubs**: ~70% of listings concentrated in Shinjuku, Shibuya, and Sumida, with average nightly rates of ¥13,000–¥20,000.
 - **High Occupancy**: Peak seasons (cherry blossom, Olympics aftermath) show 80%+ utilization, but off-peak dips to 50%.
 - **Competition Intensity**: Airbnb holds 60% share; pricing pressure from budget options erodes margins.
+- **Nationality Distribution**: Japanese ~20 %, Korean ~15 %, Chinese ~15 %, American ~10 % (derived from reviewer names).
 
 ### Niche Market
 - **Geographic Potential**: High-potential areas identified in Tokyo's western suburbs, including Tama, Mitaka, Musashino, Kyoose, and Inagi, characterized by residential neighborhoods with lower urban density and proximity to green spaces, offering untapped STR opportunities away from central saturation.
@@ -42,7 +43,7 @@ This README accompanies the project's core deliverable: a slide deck report crea
 ## Deliverables
 - **Slide Deck Report**: [View on Canva](https://www.canva.com/design/DAG04FZ9Eas/saitA0y7sPJbpTQt1qEV9A/edit?utm_content=DAG04FZ9Eas&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) – 32-slide presentation with executive summary, data visuals, and appendices.
 - **Interactive Dashboard**: [View on Power BI Service] - support dynamic querying of metrics by location, minimum night and room type.
-- **Supporting Files**
+- **Supporting Files**:
   - Raw datasets (CSV). [Download from Inside Airbnb](https://insideairbnb.com/get-the-data/)
   - Jupyter notebooks for reproducible analysis. [Download from this Repo](https://github.com/laimichael004/Tokyo-STR-Market-Entry-Project/blob/86aaf66c0df387222c46d5c52b3a36ba7d2ea2a5/TokyoSTR.ipynb)
 
